@@ -4,7 +4,7 @@
 
 ![ScreenShot](ScreenShot.png)
 
-Handsome 主图可以修改 `usr/themes/handsome/component/Content.php` 第637行
+Handsome 主题可以修改 `usr/themes/handsome/component/Content.php` 第637行
 代码 `if ($options->AlipayPic != null) {` 上面增加
 
 ```php
